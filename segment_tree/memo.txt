@@ -11,13 +11,23 @@ https://www.hamayanhamayan.com/entry/2017/07/08/173120
   以下を参考にした.  
     http://tsutaj.hatenablog.com/entry/2017/03/30/224339
 「動的セグメントツリー」
+  dynamic_segtree.cc
+  以下より抜粋
+    https://tjkendev.github.io/procon-library/cpp/range_query/dynamic_segment_tree.html
 「2Dセグメントツリー」
+   以下からソース抜粋
+   https://ei1333.github.io/algorithm/segment-tree.html
 
+BIT( binary index tree)
+  以下に記事あり.
+  https://www.slideshare.net/hcpc_hokudai/binary-indexed-tree
 
+その他速い実装
+  fast_segtree.cc
+  以下より抜粋
+    http://codeforces.com/blog/entry/18051
 
 
 区間の取り扱い
   [a,b) のような半開区間が良さげ. (c 言語のインデックスとの相性)
-
-
 
