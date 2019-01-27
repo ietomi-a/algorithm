@@ -1,0 +1,23 @@
+以下のサイトより.
+https://www.hamayanhamayan.com/entry/2017/07/08/173120
+「普通のセグメントツリー」
+  base_tree.py
+  以下を参考にした.
+    https://www.slideshare.net/iwiwi/ss-3578491
+    http://tsutaj.hatenablog.com/entry/2017/03/29/204841
+「遅延評価セグメントツリー」
+  区間に対しての一様操作の場合、有効.
+  sum_tree2.py
+  以下を参考にした.  
+    http://tsutaj.hatenablog.com/entry/2017/03/30/224339
+「動的セグメントツリー」
+「2Dセグメントツリー」
+
+
+
+
+区間の取り扱い
+  [a,b) のような半開区間が良さげ. (c 言語のインデックスとの相性)
+
+
+
